@@ -37,6 +37,10 @@
 * **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - Can be configured with "Red Team" goals (requires uncensored backend like *RedOps-V1*).
 * **[BabyAGI](https://github.com/yoheinakajima/babyagi)** - Task-driven autonomous agent.
 
+## 🔐 Agent Identity Verification
+
+* **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Useful for red teams validating AI agent authenticity in multi-agent attack simulations. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## 🔓 Prompt Injection & Jailbreaking
 
 * **[Jailbreak Chat](https://www.jailbreakchat.com/)** - A collection of jailbreak prompts (DAN, etc.).
