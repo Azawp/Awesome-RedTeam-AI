@@ -33,6 +33,7 @@
 
 ## 🤖 Autonomous Pentesting Agents
 
+* **[Darkmoon](https://github.com/ASCIT31/Dark-Moon)** - Open-source (GPL-3.0) autonomous AI pentest platform and MCP host with per-technology offensive sub-agents (GraphQL, Spring, .NET, Node, PHP, Ruby, WordPress), Active Directory and Kubernetes coverage, 80+ orchestrated tools, a local 14B LLM, a Privacy Gateway, and an evidence trail per finding.
 * **[PentestGPT](https://github.com/GreyDGL/PentestGPT)** - A GPT-empowered penetration testing tool.
 * **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - Can be configured with "Red Team" goals (requires uncensored backend like *RedOps-V1*).
 * **[BabyAGI](https://github.com/yoheinakajima/babyagi)** - Task-driven autonomous agent.
